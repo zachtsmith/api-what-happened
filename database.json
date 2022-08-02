@@ -55,394 +55,385 @@
       "isManager": true
     }
   ],
-  "zones": [ 
+  "zones": [
     {
-    "id": 1,
-    "zoneNumber": 1 
-  },
-  {
-    "id": 2,
-    "zoneNumber": 2 
-  },
-  {
-    "id": 3,
-    "zoneNumber": 3 
-  }
-],
+      "id": 1,
+      "zoneNumber": 1
+    },
+    {
+      "id": 2,
+      "zoneNumber": 2
+    },
+    {
+      "id": 3,
+      "zoneNumber": 3
+    }
+  ],
   "equipment": [
     {
       "id": 1,
       "zoneId": 1,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 1
     },
     {
       "id": 2,
       "zoneId": 1,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 2
     },
     {
       "id": 3,
       "zoneId": 1,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 3
     },
     {
       "id": 4,
       "zoneId": 1,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 4
     },
     {
       "id": 5,
       "zoneId": 1,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 5
     },
     {
       "id": 6,
       "zoneId": 1,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 1
     },
     {
       "id": 7,
       "zoneId": 1,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 2
     },
     {
       "id": 8,
       "zoneId": 1,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 3
     },
     {
       "id": 9,
       "zoneId": 1,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 4
     },
     {
       "id": 10,
       "zoneId": 1,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 5
     },
     {
       "id": 11,
       "zoneId": 1,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 1
     },
     {
       "id": 12,
       "zoneId": 1,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 2
     },
     {
       "id": 13,
       "zoneId": 1,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 3
     },
     {
       "id": 14,
       "zoneId": 1,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 4
     },
     {
       "id": 15,
       "zoneId": 1,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 5
     },
     {
       "id": 16,
       "zoneId": 2,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 1
     },
     {
       "id": 17,
       "zoneId": 2,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 2
     },
     {
       "id": 18,
       "zoneId": 2,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 3
     },
     {
       "id": 19,
       "zoneId": 2,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 4
     },
     {
       "id": 20,
       "zoneId": 2,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 5
     },
     {
       "id": 21,
       "zoneId": 2,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 1
     },
     {
       "id": 22,
       "zoneId": 2,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 2
     },
     {
       "id": 23,
       "zoneId": 2,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 3
     },
     {
       "id": 24,
       "zoneId": 2,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 4
     },
     {
       "id": 25,
       "zoneId": 2,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 5
     },
     {
       "id": 26,
       "zoneId": 2,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 1
     },
     {
       "id": 27,
       "zoneId": 2,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 2
     },
     {
       "id": 28,
       "zoneId": 2,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 3
     },
     {
       "id": 29,
       "zoneId": 2,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 4
     },
     {
       "id": 30,
       "zoneId": 2,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 5
     },
     {
       "id": 31,
       "zoneId": 3,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 1
     },
     {
       "id": 32,
       "zoneId": 3,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 2
     },
     {
       "id": 33,
       "zoneId": 3,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 3
     },
     {
       "id": 34,
       "zoneId": 3,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 4
     },
     {
       "id": 35,
       "zoneId": 3,
-      "equipmentType": "robot",
+      "equipmentType": "Robot",
       "equipmentTypeNumber": 5
     },
     {
       "id": 36,
       "zoneId": 3,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 1
     },
     {
       "id": 37,
       "zoneId": 3,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 2
     },
     {
       "id": 38,
       "zoneId": 3,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 3
     },
     {
       "id": 39,
       "zoneId": 3,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 4
     },
     {
       "id": 40,
       "zoneId": 3,
-      "equipmentType": "jig",
+      "equipmentType": "Jig",
       "equipmentTypeNumber": 5
     },
     {
       "id": 41,
       "zoneId": 3,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 1
     },
     {
       "id": 42,
       "zoneId": 3,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 2
     },
     {
       "id": 43,
       "zoneId": 3,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 3
     },
     {
       "id": 44,
       "zoneId": 3,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 4
     },
     {
       "id": 45,
       "zoneId": 3,
-      "equipmentType": "welder",
+      "equipmentType": "Welder",
       "equipmentTypeNumber": 5
     }
   ],
   "issueDetails": [
     {
       "id": 1,
-      "whatTypeOfIssue": "electrical",
-      "causeOfIssue": "sensor"
-    },
-    {
-      "id": 1,
-      "whatTypeOfIssue": "electrical",
-      "causeOfIssue": "sensor"
-    },
-    {
-      "id": 1,
-      "whatTypeOfIssue": "electrical",
+      "whatTypeOfIssue": "Electrical",
       "causeOfIssue": "sensor"
     },
     {
       "id": 2,
-      "whatTypeOfIssue": "electrical",
+      "whatTypeOfIssue": "Electrical",
       "causeOfIssue": "solenoid"
     },
     {
       "id": 3,
-      "whatTypeOfIssue": "electrical",
+      "whatTypeOfIssue": "Electrical",
       "causeOfIssue": "I/O card"
     },
     {
       "id": 4,
-      "whatTypeOfIssue": "electrical",
+      "whatTypeOfIssue": "Electrical",
       "causeOfIssue": "power supply"
     },
     {
       "id": 5,
-      "whatTypeOfIssue": "electrical",
+      "whatTypeOfIssue": "Electrical",
       "causeOfIssue": "transformer"
     },
     {
       "id": 6,
-      "whatTypeOfIssue": "control",
+      "whatTypeOfIssue": "Control",
       "causeOfIssue": "program"
     },
     {
       "id": 7,
-      "whatTypeOfIssue": "control",
+      "whatTypeOfIssue": "Control",
       "causeOfIssue": "weld schedule"
     },
     {
       "id": 8,
-      "whatTypeOfIssue": "control",
+      "whatTypeOfIssue": "Control",
       "causeOfIssue": "servo"
     },
     {
       "id": 9,
-      "whatTypeOfIssue": "control",
+      "whatTypeOfIssue": "Control",
       "causeOfIssue": "teach pendant"
     },
     {
       "id": 10,
-      "whatTypeOfIssue": "control",
+      "whatTypeOfIssue": "Control",
       "causeOfIssue": "interlocks"
     },
     {
       "id": 11,
-      "whatTypeOfIssue": "hardware",
+      "whatTypeOfIssue": "Hardware",
       "causeOfIssue": "locate pin"
     },
     {
       "id": 12,
-      "whatTypeOfIssue": "hardware",
+      "whatTypeOfIssue": "Hardware",
       "causeOfIssue": "pin shift"
     },
     {
       "id": 13,
-      "whatTypeOfIssue": "hardware",
+      "whatTypeOfIssue": "Hardware",
       "causeOfIssue": "clamp"
     },
     {
       "id": 14,
-      "whatTypeOfIssue": "hardware",
+      "whatTypeOfIssue": "Hardware",
       "causeOfIssue": "bolt"
     },
     {
       "id": 15,
-      "whatTypeOfIssue": "hardware",
+      "whatTypeOfIssue": "Hardware",
       "causeOfIssue": "ejector"
     }
   ],
-  "loggedCall": [
+  "loggedCalls": [
     {
       "id": 1,
       "userId": 2,
       "zoneId": 2,
-      "equipmenId": 3,
-      "issueDetailsId": 15,
+      "equipmentId": 3,
+      "issueDetailsId": 6,
       "date": "2021-08-27",
       "startTime": "08:30 AM",
       "endTime": "08:54 AM",
       "totalAmountOfDowntime": 24,
-
+      "descriptionOfIssue": "Robot 2 and 3 crashed into each other.",
+      "RepairMade": "Homed out Robots, inspected for damage, added I/O to prevent issue."
     },
     {
-      "id": 1,
+      "id": 2,
       "userId": 4,
       "zoneId": 1,
       "equipmentId": 37,
@@ -451,6 +442,21 @@
       "startTime": "10:23 AM",
       "endTime": "11:00 AM",
       "totalAmountOfDowntime": 37,
+      "descriptionOfIssue": "Jig pinshift not moving.",
+      "RepairMade": "Added lubricant to airlines."
+    },
+    {
+      "userId": 2,
+      "zoneId": 1,
+      "equipmentId": 4,
+      "issueDetailsId": 3,
+      "date": "2022-08-24",
+      "startTime": "15:22",
+      "endTime": "15:40",
+      "totalAmountOfDowntime": 18,
+      "descriptionOfIssue": "Robot I/O card went out.",
+      "repairMade": "Replaced card.",
+      "id": 3
     }
   ]
 }
