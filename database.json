@@ -422,7 +422,7 @@
     {
       "id": 1,
       "userId": 2,
-      "zoneId": 2,
+      "zoneId": 1,
       "equipmentId": 3,
       "issueDetailsId": 6,
       "date": "2021-08-27",
@@ -430,12 +430,12 @@
       "endTime": "08:54 AM",
       "totalAmountOfDowntime": 24,
       "descriptionOfIssue": "Robot 2 and 3 crashed into each other.",
-      "RepairMade": "Homed out Robots, inspected for damage, added I/O to prevent issue."
+      "repairMade": "Homed out Robots, inspected for damage, added I/O to prevent issue."
     },
     {
       "id": 2,
       "userId": 4,
-      "zoneId": 1,
+      "zoneId": 3,
       "equipmentId": 37,
       "issueDetailsId": 12,
       "date": "2021-08-27",
@@ -443,7 +443,7 @@
       "endTime": "11:00 AM",
       "totalAmountOfDowntime": 37,
       "descriptionOfIssue": "Jig pinshift not moving.",
-      "RepairMade": "Added lubricant to airlines."
+      "repairMade": "Added lubricant to airlines."
     },
     {
       "userId": 2,
@@ -457,6 +457,45 @@
       "descriptionOfIssue": "Robot I/O card went out.",
       "repairMade": "Replaced card.",
       "id": 3
+    },
+    {
+      "userId": 2,
+      "zoneId": 1,
+      "equipmentId": 3,
+      "issueDetailsId": 14,
+      "date": "2022-08-02",
+      "startTime": "15:48",
+      "endTime": "16:10",
+      "totalAmountOfDowntime": 22,
+      "descriptionOfIssue": "Bolt came loose from robot hand.",
+      "repairMade": "Reinstalled bolt and added loctite.",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "zoneId": 3,
+      "equipmentId": 35,
+      "issueDetailsId": 13,
+      "date": "2022-08-03",
+      "startTime": "14:30",
+      "endTime": "03:26",
+      "totalAmountOfDowntime": 56,
+      "descriptionOfIssue": "clamp broke",
+      "repairMade": "replaced clamp",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "zoneId": 2,
+      "equipmentId": 29,
+      "issueDetailsId": 7,
+      "date": "2022-08-02",
+      "startTime": "03:32",
+      "endTime": "03:50",
+      "totalAmountOfDowntime": 18,
+      "descriptionOfIssue": "operator broke it",
+      "repairMade": "changed weld schedule",
+      "id": 6
     }
   ]
 }
