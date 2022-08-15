@@ -53,6 +53,24 @@
       "name": "Vernon Carter",
       "email": "vernonCarter@hotmail.com",
       "isManager": true
+    },
+    {
+      "name": "Branko Zelenika",
+      "email": "branko@gmail.com",
+      "isManager": false,
+      "id": 10
+    },
+    {
+      "name": "Michael Warren",
+      "email": "warandpeace@gmail.com",
+      "isManager": true,
+      "id": 11
+    },
+    {
+      "name": "Shane Mayhew",
+      "email": "shane@m.com",
+      "isManager": false,
+      "id": 12
     }
   ],
   "zones": [
@@ -420,19 +438,6 @@
   ],
   "loggedCalls": [
     {
-      "id": 1,
-      "userId": 2,
-      "zoneId": 1,
-      "equipmentId": 3,
-      "issueDetailsId": 6,
-      "date": "2021-08-27",
-      "startTime": "08:30 AM",
-      "endTime": "08:54 AM",
-      "totalAmountOfDowntime": 24,
-      "descriptionOfIssue": "Robot 2 and 3 crashed into each other.",
-      "repairMade": "Homed out Robots, inspected for damage, added I/O to prevent issue."
-    },
-    {
       "id": 2,
       "userId": 4,
       "zoneId": 3,
@@ -496,6 +501,45 @@
       "descriptionOfIssue": "operator broke it",
       "repairMade": "changed weld schedule",
       "id": 6
+    },
+    {
+      "userId": 1,
+      "zoneId": 2,
+      "equipmentId": 28,
+      "issueDetailsId": 9,
+      "date": "2022-07-13",
+      "startTime": "15:14",
+      "endTime": "15:27",
+      "totalAmountOfDowntime": 13,
+      "descriptionOfIssue": "Forklift operator ran into the welder.",
+      "repairMade": "Replaced the teach pendant on the welder.",
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "zoneId": 3,
+      "equipmentId": 40,
+      "issueDetailsId": 12,
+      "date": "2022-08-05",
+      "startTime": "07:46",
+      "endTime": "08:00",
+      "totalAmountOfDowntime": 14,
+      "descriptionOfIssue": "Locator pin on jig 5 was not shifting.",
+      "repairMade": "Replaced the locate pin with a new one, after seeing that the original was worn.",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "zoneId": 2,
+      "equipmentId": 18,
+      "issueDetailsId": 5,
+      "date": "2022-08-15",
+      "startTime": "10:57",
+      "endTime": "11:57",
+      "totalAmountOfDowntime": 60,
+      "descriptionOfIssue": "Robot 3 stopped working, making a weird buzzing sound.",
+      "repairMade": "Replaced the transformer.",
+      "id": 12
     }
   ]
 }
